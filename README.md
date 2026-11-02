@@ -4,6 +4,8 @@ A practical end-to-end deployment of a LangGraph-based Agentic AI
 Chatbot using Docker, Amazon ECR, AWS CodeBuild, AWS CodePipeline,
 Amazon ECS, and AWS Fargate.
 
+![image alt](https://github.com/Y-Vishanth/Agentic-AI-Chatbot/blob/bc7ff0efaf52c050db585c80df22b0cfd6ff4498/Application-ss.jpeg)
+
 > **Implementation notes**
 >
 > -   AWS CodeCommit was used as the CodePipeline source in this
